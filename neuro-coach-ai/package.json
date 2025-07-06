@@ -1,0 +1,16 @@
+
+{
+  "name": "neuro-coach-ai-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend functions for Neuro-Coach AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.8.0"
+  }
+}
